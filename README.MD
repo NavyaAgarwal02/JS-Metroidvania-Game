@@ -4,7 +4,7 @@ Welcome to the Metroidvania Game! This project is a classic Metroidvania-style g
 
 ![image of the game](./screenshot.png)
 
-## Live demo : https://js-metroidvania-game-njpgv4pwl-navya-agarwal-projects.vercel.app/
+## Live demo : Check out the live demo [here](https://js-metroidvania-game-njpgv4pwl-navya-agarwal-projects.vercel.app/).
 
 ## Table of Contents
 1. Introduction
