@@ -4,7 +4,7 @@ Welcome to the Metroidvania Game! This project is a classic Metroidvania-style g
 
 ![image of the game](./screenshot.png)
 
-## Live demo : 
+## Live demo : https://js-metroidvania-game-njpgv4pwl-navya-agarwal-projects.vercel.app/
 
 ## Table of Contents
 1. Introduction
@@ -21,11 +21,11 @@ Metroidvania Game is a 2D action-adventure game where players explore a large in
 
 ## Features
 
-Interconnected World: Explore a vast, interconnected world filled with secrets and hidden areas.
-Power-ups and Upgrades: Discover power-ups and upgrades to enhance your abilities and access new areas.
-Challenging Enemies: Face off against a variety of enemies, each with unique behaviors and attack patterns.
-Platforming Challenges: Navigate through challenging platforming sections requiring precision and skill.
-Retro Aesthetic: Enjoy a nostalgic retro aesthetic with pixel art graphics and chiptune music.
+- **Interconnected World**: Explore a vast, interconnected world filled with secrets and hidden areas.
+- **Power-ups and Upgrades**: Discover power-ups and upgrades to enhance your abilities and access new areas.
+- **Challenging Enemies**: Face off against a variety of enemies, each with unique behaviors and attack patterns.
+- **Platforming Challenges**: Navigate through challenging platforming sections requiring precision and skill.
+- **Retro Aesthetic**: Enjoy a nostalgic retro aesthetic with pixel art graphics and chiptune music.
 
 ## Installation
 
@@ -48,11 +48,10 @@ In Metroidvania Game, players take on the role of a hero exploring a vast world.
 
 ## Controls
 
-1. Arrow Keys: Move left and right
-2. Spacebar: Jump
-3. Z: Attack
-4. X: Use special ability (if available)
-5. C: Interact with objects/NPCs
+- **Enter key**: To start the game
+- **Arrow Keys**: Move left and right
+- **X**: Jump
+- **Z**: Attack
 
 ##Contributing
 
