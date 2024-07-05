@@ -41,10 +41,10 @@ cd JS-Metroidvania-Game
 ## Gameplay
 In Metroidvania Game, players take on the role of a hero exploring a vast world. The goal is to find and defeat the final boss while uncovering hidden secrets and obtaining power-ups along the way.
 
-1. Exploration: Move through different areas, finding paths to new locations.
-2. Combat: Defeat enemies using your primary weapon and abilities.
-3. Upgrades: Collect upgrades that enhance your abilities, allowing you to reach previously inaccessible areas.
-4. Boss Fights: Engage in challenging boss fights that require strategy and skill.
+- **Exploration**: Move through different areas, finding paths to new locations.
+- **Combat**: Defeat enemies using your primary weapon and abilities.
+- **Upgrades**: Collect upgrades that enhance your abilities, allowing you to reach previously inaccessible areas.
+- **Boss Fights**: Engage in challenging boss fights that require strategy and skill.
 
 ## Controls
 
@@ -53,16 +53,15 @@ In Metroidvania Game, players take on the role of a hero exploring a vast world.
 - **X**: Jump
 - **Z**: Attack
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to the development of Metroidvania Game, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch: git checkout -b feature/your-feature-name
-3. Make your changes.
-4. Commit your changes: git commit -m "Add your commit message here"
-5. Push to your branch: git push origin feature/your-feature-name
-6. Create a pull request.
+- **Fork the repository.
+- **Create a new branch: git checkout -b feature/your-feature-name
+- **Make your changes.
+- **Push to your branch: git push origin feature/your-feature-name
+- **Create a pull request.
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
