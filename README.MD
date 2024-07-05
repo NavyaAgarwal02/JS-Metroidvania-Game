@@ -4,7 +4,8 @@ Welcome to the Metroidvania Game! This project is a classic Metroidvania-style g
 
 ![image of the game](./screenshot.png)
 
-## Live demo : Check out the live demo [here](https://js-metroidvania-game-njpgv4pwl-navya-agarwal-projects.vercel.app/).
+## Live demo : 
+Check out the live demo [here](https://js-metroidvania-game-njpgv4pwl-navya-agarwal-projects.vercel.app/).
 
 ## Table of Contents
 1. Introduction
@@ -57,11 +58,11 @@ In Metroidvania Game, players take on the role of a hero exploring a vast world.
 
 Contributions are welcome! If you'd like to contribute to the development of Metroidvania Game, please follow these steps:
 
-- **Fork the repository.
-- **Create a new branch: git checkout -b feature/your-feature-name
-- **Make your changes.
-- **Push to your branch: git push origin feature/your-feature-name
-- **Create a pull request.
+- Fork the repository.
+- Create a new branch: git checkout -b feature/your-feature-name
+- Make your changes.
+- Push to your branch: git push origin feature/your-feature-name
+- Create a pull request.
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
