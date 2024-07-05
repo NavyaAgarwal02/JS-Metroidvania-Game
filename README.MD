@@ -33,7 +33,7 @@ Metroidvania Game is a 2D action-adventure game where players explore a large in
 To run the game locally, follow these steps:
 
 1. Clone the repository: 
-git clone https://github.com/yourusername/JS-Metroidvania-Game.git
+git clone https://github.com/NavyaAgarwal02/JS-Metroidvania-Game.git
 cd JS-Metroidvania-Game
 2. Install dependencies: npm install
 3. Run the game: npm start
